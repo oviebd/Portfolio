@@ -1,20 +1,21 @@
-![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)         
+![White Minimalist Elegant Neutral LinkedIn Banner](https://github.com/oviebd/Portfolio/blob/main/Images/Profile/poster_portfolio.png)         
  
-### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
+### 👋 Hi! I'm Habibur Rahman. Here's a bit of what I've been working on.
 
-# [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
-(Contract Work)
-I've had the opportunity to contribute to this incredible iOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes.
+# [eBidyaloy - Learning Platform  (iOS, Swift, UiKit, iOS IAP )](https://apps.apple.com/us/app/ebidyaloy-learning-platform/id1642474911?platform=iphone)
 
+(Office Project - DreamOnline Limited)
 
+This eduTech application connects students, teachers, and institutes all together through its powerful features like live classes, attendance system, assignments, etc. In addition, it has free and paid courses with both online streaming and offline download features. 
 
-## Sneak Peek 👀
-Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
+  
+## iOS-Real-Time-Chat-Application  (iOS, Swift, SwiftUI,  Firebase, Combine Framework )
+ This iOS Real-Time Chat App uses SwiftUI and Firebase for secure authentication. Ensures instant messaging with a clean interface, dark Mode support, and follows MVVM, Swift concurrency, and SOLID principles for robust communication.
 
 <p align="center">
- <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
+ <img src="https://github.com/oviebd/iOS-Real-Time-Chat-Application/blob/main/ScreenShots/Chat%20View.png", width="400"/>
+<img src="https://github.com/oviebd/iOS-Real-Time-Chat-Application/blob/main/ScreenShots/profile%20_%20light.png", width="200"/>
+
 </p>
 
 What's new?
