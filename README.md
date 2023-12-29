@@ -41,20 +41,14 @@ Published top-rated native and platform-independent paid Unity Asset Store Plugi
 <img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="200"/>
  </p>
 
-**My Contributions**
-- 🎨 Update Settings UI
-- ⭐️ Add Ratings prompt
-- ⚙️ Preference Screen for mac
-- ❇️ Widget
+## Battle Wizard (Game, Unity, Online Multiplayer Game, Photon, Unity to Js communication): 
 
-**Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🔲 WidgetKit
+This is a 2D platformer PvP survival game with spectator modes, integrating server-based player and room data. Utilized Unity's communication with JavaScript for seamless fetching and updating of server information, showcasing proficiency in multiplayer game development and server integration.
 
-## [SafePeople](https://github.com/brittanyarima/SafePeople) 
-`📲 Available on the App Store`
-<br>Safe People was an idea my sister came up with and I had the honor of bringing to life. The purpose of the app is to help those struggling with addiction, anxiety, depression, etc.. reach out to their Safe People in times of need. When "triggered" the user can open the app and simply press the 'Safe Button'. This will prepare a pre-written customizable message that will be ready to send to their trusted people. The message and their trusted contacts will auto-populate in their iPhone's message app, and all they have to do is press "send".
+Check the [Gameplay from YouTube](https://www.youtube.com/watch?v=WaCVL6u9HgE)
+<br>
+Play the game from [here](https://iseeu.games/welcome/game/2)
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/>
@@ -62,12 +56,7 @@ Published top-rated native and platform-independent paid Unity Asset Store Plugi
 <img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="200"/>
 <img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="200"/>
  </p>
- 
-**Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📇 Contacts
+
 
 ## [Steps](https://github.com/brittanyarima/Steps)
 [`📲 Available on the App Store`](https://apps.apple.com/app/id1663569893)
