@@ -10,7 +10,10 @@ This eduTech application connects students, teachers, and institutes all togethe
 
   
 ## iOS-Real-Time-Chat-Application  (iOS, Swift, SwiftUI,  Firebase, Combine Framework )
- This iOS Real-Time Chat App uses SwiftUI and Firebase for secure authentication. Ensures instant messaging with a clean interface, dark Mode support, and follows MVVM, Swift concurrency, and SOLID principles for robust communication.
+This iOS Real-Time Chat App uses SwiftUI and Firebase for secure authentication. Ensures instant messaging with a clean interface, dark Mode support, and follows MVVM, Swift concurrency, and SOLID principles for robust communication.
+
+Check the source code from [Github](https://github.com/oviebd/iOS-Real-Time-Chat-Application)
+
 
 <p align="center">
  <img src="https://github.com/oviebd/iOS-Real-Time-Chat-Application/blob/main/ScreenShots/Chat%20View.png", width="400"/>
@@ -18,17 +21,10 @@ This eduTech application connects students, teachers, and institutes all togethe
 
 </p>
 
-What's new?
-- A refreshed Home Screen
-- Updated UI
-- App-wide consistency in Buttons/Textfield/Sheet styles
-- To make it a bit more fun, I've added the ability for users to customize each trip with a color and icon
-- I incorporated the Queue-Times API to show Disneyland's current wait times on the Home Screen
-- More to come!
 
+## Opus - Job Recruiting Application  (iOS, Swift, SwiftUI, Apple Map, Combine Framework )
+advanced job recruitment app fosters collaboration between recruiters and job seekers. Implemented secure two-factor authentication, robust search filters, and Apple Maps integration for enhanced user experience. The platform facilitates self-promotion for both employers and candidates. 
 
-## Magic Budget
-This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76922883/224447663-1946a1d5-0e7d-45bb-ba4f-48eb68924337.PNG" width="200"/>
@@ -36,18 +32,9 @@ This app has been a passion project of mine over the past couple years. Magic Bu
 <img src="https://user-images.githubusercontent.com/76922883/224447581-6896ca04-6ffe-4a87-8c9e-a45809ad1798.PNG" width="200"/>
 </p>
 
+## Unity Plugins (Unity3D, C#, Java, Swift, Objective-C):
 
-
-**Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
-
-## Creator View
-Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
-<br>I have had the opportunity to contribute to a few areas of this app. Check it out below!
+Published top-rated native and platform-independent paid Unity Asset Store Plugins, garnering positive reviews. Over 1000 developers globally have purchased these plugins, showcasing expertise in creating high-quality solutions within the Unity development ecosystem. Check Plugins 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="200"/>
