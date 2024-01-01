@@ -27,9 +27,9 @@ advanced job recruitment app fosters collaboration between recruiters and job se
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/224447663-1946a1d5-0e7d-45bb-ba4f-48eb68924337.PNG" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/224447492-c8163fc6-7d5d-416c-913c-f9d9e0295392.PNG" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/224447581-6896ca04-6ffe-4a87-8c9e-a45809ad1798.PNG" width="200"/>
+<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/home_map.png" width="200"/>
+<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/user_profile.png" width="200"/>
+<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/Manage_Skill.png" width="200"/>
 </p>
 
 ## Unity Plugins (Unity3D, C#, Java, Swift, Objective-C):
@@ -45,17 +45,15 @@ Published top-rated native and platform-independent paid Unity Asset Store Plugi
 
 This is a 2D platformer PvP survival game with spectator modes, integrating server-based player and room data. Utilized Unity's communication with JavaScript for seamless fetching and updating of server information, showcasing proficiency in multiplayer game development and server integration.
 
-Check the [Gameplay from YouTube](https://www.youtube.com/watch?v=WaCVL6u9HgE)
-<br>
 Play the game from [here](https://iseeu.games/welcome/game/2)
 
+<br>
+<p align="center"> 
+ 
+[<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Battle_Wizard/gamePlay.gif?raw=true" width="480" height="270" >](https://www.youtube.com/watch?v=WaCVL6u9HgE)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="200"/>
  </p>
+
 
 
 ## Ultimate Striker (Game, Unity, AR): 
