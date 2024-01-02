@@ -1,8 +1,8 @@
 ![White Minimalist Elegant Neutral LinkedIn Banner](https://github.com/oviebd/Portfolio/blob/main/Images/Profile/poster_portfolio.png)         
  
-### 👋 Hi! I'm Habibur Rahman. Here's a bit of what I've been working on.
+ 👋 Hi! I'm Habibur Rahman a Proficient iOS Software Engineer with 8 years of experience in native iOS app development and Unity3D Game Engine.
 
-# [eBidyaloy - Learning Platform  (iOS, Swift, UiKit, iOS IAP )
+# eBidyaloy - Learning Platform  (iOS, Swift, UiKit, iOS IAP)
 
 (Office Project - DreamOnline Limited)
 
@@ -12,6 +12,7 @@ This eduTech application connects students, teachers, and institutes all togethe
 
   
 ## iOS-Real-Time-Chat-Application  (iOS, Swift, SwiftUI,  Firebase, Combine Framework )
+
 This iOS Real-Time Chat App uses SwiftUI and Firebase for secure authentication. Ensures instant messaging with a clean interface, dark Mode support, and follows MVVM, Swift concurrency, and SOLID principles for robust communication.
 
 Check the source code from [Github](https://github.com/oviebd/iOS-Real-Time-Chat-Application)
