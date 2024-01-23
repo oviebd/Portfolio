@@ -10,6 +10,17 @@
 
 This eduTech application connects students, teachers, and institutes all together through its powerful features like live classes, attendance system, assignments, etc. In addition, it has free and paid courses with both online streaming and offline download features. 
 
+
+## CryptoTracker App (iOS, Swift, SwiftUI, Combine Framework, CoreData )
+
+CryptoTracker is a dynamic application designed to fetch real-time data on cryptocurrency coins through a web API. It not only retrieves live data but also allows users to efficiently manage their purchased coins using Core Data. The incorporation of an interactive charting feature enables users to visualize price changes for a quick and comprehensive overview.
+
+Check the source code from [Github](https://github.com/oviebd/CryptoTracker)
+
+
+<a href="https://www.youtube.com/watch?v=qMS_bEQnTWs"><p align="center">[<img src="https://github.com/oviebd/CryptoTracker/blob/main/AppGraphics/Graph%20_%20Dark.gif?raw=true" width="258" height="540" >](https://www.youtube.com/watch?v=qMS_bEQnTWs)</p></a>
+
+
   
 ## iOS-Real-Time-Chat-Application  (iOS, Swift, SwiftUI,  Firebase, Combine Framework )
 
