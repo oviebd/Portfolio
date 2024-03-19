@@ -8,7 +8,22 @@
 
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/ebidyaloy-learning-platform/id1642474911?platform=iphone)
 
-This eduTech application connects students, teachers, and institutes all together through its powerful features like live classes, attendance system, assignments, etc. In addition, it has free and paid courses with both online streaming and offline download features. 
+This learning platform connects students, teachers, and institutes all together through its powerful features like live classes, attendance systems, assignments, etc. In addition, it has free and paid courses with both online streaming and offline download features. 
+
+
+## Opus - Job Recruiting Application  (iOS, Swift, SwiftUI, Apple Map, Combine Framework )
+
+(Office Project - DreamOnline Limited)
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/opus-employer/id6470737573)
+
+advanced job recruitment app fosters collaboration between recruiters and job seekers. Implemented secure two-factor authentication, robust search filters, and Apple Maps integration for enhanced user experience. The platform facilitates self-promotion for both employers and candidates. 
+
+
+<p align="center">
+<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/home_map.png" width="200"/>
+<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/user_profile.png" width="200"/>
+<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/Manage_Skill.png" width="200"/>
+</p>
 
 
 ## CryptoTracker App (iOS, Swift, SwiftUI, Combine Framework, CoreData )
@@ -36,18 +51,6 @@ Check the source code from [Github](https://github.com/oviebd/iOS-Real-Time-Chat
 </p>
 
 
-## Opus - Job Recruiting Application  (iOS, Swift, SwiftUI, Apple Map, Combine Framework )
-
-(Office Project - DreamOnline Limited)
-
-advanced job recruitment app fosters collaboration between recruiters and job seekers. Implemented secure two-factor authentication, robust search filters, and Apple Maps integration for enhanced user experience. The platform facilitates self-promotion for both employers and candidates. 
-
-
-<p align="center">
-<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/home_map.png" width="200"/>
-<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/user_profile.png" width="200"/>
-<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/Opus/Manage_Skill.png" width="200"/>
-</p>
 
 ## Unity Plugins (Unity3D, C#, Java, Swift, Objective-C):
 
