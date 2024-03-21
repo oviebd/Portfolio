@@ -14,7 +14,11 @@ This learning platform connects students, teachers, and institutes all together 
 ## Opus - Job Recruiting Application  (iOS, Swift, SwiftUI, Apple Map, Combine Framework )
 
 (Office Project - DreamOnline Limited)
-[`📲 Available on the App Store`](https://apps.apple.com/us/app/opus-employer/id6470737573)
+
+[`📲 Employer app is now available on the App Store`](https://apps.apple.com/us/app/opus-employer/id6470737573)
+
+[`📲 Candidate app is now available on the App Store`](https://apps.apple.com/us/app/opus-candidate/id6470737547)
+
 
 advanced job recruitment app fosters collaboration between recruiters and job seekers. Implemented secure two-factor authentication, robust search filters, and Apple Maps integration for enhanced user experience. The platform facilitates self-promotion for both employers and candidates. 
 
