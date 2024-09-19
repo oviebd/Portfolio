@@ -2,6 +2,18 @@
  
  👋 Hi! I'm Habibur Rahman a Proficient iOS Software Engineer with 8 years of experience in native iOS app development and Unity3D Game Engine.
 
+## eWallet - Expense & Income Tracker (iOS, Swift, SwiftUI, Combine Framework, CoreData, Chart, Unit Test )
+
+This application designed to help you manage your daily expenses and incomes with ease. It allows users to categorize their records, visualize financial data, and track their spending habits efficiently. The app is built with SwiftUI , Combine Framework ,and uses Core Data for local storage, ensuring a smooth user experience with clean, decoupled components and full testability.
+
+
+Check the source code from [Github](https://github.com/oviebd/eWallet)
+
+
+<a href="https://youtu.be/qdcexMz3H5c"><p align="center">[<img src="https://github.com/oviebd/Portfolio/blob/main/Images/Projects/eWallet/eWallet.gif" width="258" height="540" >](https://youtu.be/qdcexMz3H5c)</p></a>
+
+
+
 # eBidyaloy - Learning Platform  (iOS, Swift, UiKit, iOS IAP)
 
 (Office Project - DreamOnline Limited)
