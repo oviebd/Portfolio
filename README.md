@@ -39,6 +39,34 @@ This modern EdTech platform bridges the gap between students, teachers, and inst
 * Ensured **app stability** through **unit testing** and the use of **reusable components**.
 
 
+## AgriTech – AI-Powered Crop Diagnosis & Support (Swift, SwiftUI, OpenAI, REST API)
+
+An AI-assisted crop care iOS application that identifies plants and detects diseases from images and location data. The app provides treatment suggestions, supports AI-driven chat for farming queries, and allows expert escalation with full chat and data handoff.
+
+### 🌿 Key Contributions
+
+* **Integrated plant recognition AI API** and **OpenAI API** for accurate **disease diagnosis** and **natural remedy suggestions**.
+* Built a **responsive AI chat system** using **Swift Concurrency**, **Combine**, and **SwiftUI** for smooth, real-time interaction.
+* Enabled **file upload and analysis** (e.g., **soil reports**) to deliver **context-aware AI recommendations**.
+* Implemented **location-based services** and **weather API integration** to provide **personalized plant care**.
+* Developed a clean and modular **RESTful API communication layer** with **robust, state-driven UI updates**.
+* Managed **secure chat-to-expert escalation**, bundling user messages, location data, and diagnosis context effectively.
+
+## App-Based Distraction Management via NFC & Family Controls (Swift, SwiftUI, NFC, Family Controls)
+
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/reborn/id6745334885)
+
+This productivity iOS applications enable users to manage app access through NFC triggers and Apple’s Family Controls framework. The system allows dynamic app restriction, session tracking, and controlled override mechanisms to promote focused device usage.
+
+### 📱 Key Contributions
+
+* **Architected the app** using **SwiftUI**, **Combine**, and **Swift Concurrency** to build **responsive UIs** and manage seamless data flow.
+* **Integrated NFC reading** to trigger **app restriction workflows** dynamically.
+* Utilized the **Apple Family Controls API** to **programmatically block and unblock apps** based on user settings.
+* Designed a **session timer** with **SOS override logic**, using **persistent storage** and **background task handling**.
+* Managed **App Store provisioning**, **entitlement configuration**, and ensured **compliance with Screen Time permissions**.
+
+
 ## eWallet - Expense & Income Tracker (iOS, Swift, SwiftUI, Combine Framework, CoreData, Chart, Unit Test )
 
 This application designed to help you manage your daily expenses and incomes with ease. It allows users to categorize their records, visualize financial data, and track their spending habits efficiently. The app is built with SwiftUI , Combine Framework ,and uses Core Data for local storage, ensuring a smooth user experience with clean, decoupled components and full testability.
