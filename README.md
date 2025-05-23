@@ -2,6 +2,43 @@
  
  👋 Hi! I'm Habibur Rahman a Proficient iOS Software Engineer with 8 years of experience in native iOS app development and Unity3D Game Engine.
 
+## Quore -  Paperless Hotel Management (Swift, UIKit, Swift Concurrency, XCTest)
+
+(Office Project - Periscope Technology Solutions Limited)
+
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/quore/id1451513467?platform=iphone)
+
+Quore is a hotel management platform designed to replace traditional paper-based processes. It connects every level of hotel staff—from housekeepers to managers and owners—into one streamlined system for managing inspections, tasks, and work orders.
+
+### 🚀 Key Contributions
+
+* **Led iOS development** with a focus on **modular, reusable, and testable components** across the application.
+* Built a **custom accordion UI component** capable of handling **dynamic and nested data views** efficiently.
+* Developed a **robust offline system** that enables inspections to be completed without internet and **syncs seamlessly** once reconnected.
+* Leveraged **Combine** and **Swift Concurrency (async/await)** for clean, modern, and maintainable async code.
+* Wrote **unit tests** to ensure feature reliability and catch regressions early.
+* **Managed App Store distribution**, including test builds, releases, and update deployments.
+
+
+## eBidyaloy - Learning Platform (Swift, UIKit, StoreKit)
+
+(Office Project - DreamOnline Limited)
+
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/ebidyaloy-learning-platform/id1642474911?platform=iphone)
+
+This modern EdTech platform bridges the gap between students, teachers, and institutions—all within a single iOS app. I played a key role in transforming its legacy codebase into a robust, scalable, and optimized solution with modern iOS technologies.
+
+### 🚀 Key Contributions
+
+* **Integrated StoreKit** to deliver a smooth and reliable **in-app purchase experience**.
+* Developed **Quiz and Assignment features** to support **interactive learning**.
+* **Refactored a legacy codebase** into a **modular, testable architecture** adhering to **SOLID principles**.
+* Replaced outdated completion handlers with **Swift Concurrency (async/await)** for **cleaner and more maintainable code**.
+* Utilized **Combine** for **efficient reactive data handling**.
+* Contributed to a **streamable video player**, improving the overall **media learning experience**.
+* Ensured **app stability** through **unit testing** and the use of **reusable components**.
+
+
 ## eWallet - Expense & Income Tracker (iOS, Swift, SwiftUI, Combine Framework, CoreData, Chart, Unit Test )
 
 This application designed to help you manage your daily expenses and incomes with ease. It allows users to categorize their records, visualize financial data, and track their spending habits efficiently. The app is built with SwiftUI , Combine Framework ,and uses Core Data for local storage, ensuring a smooth user experience with clean, decoupled components and full testability.
@@ -14,13 +51,6 @@ Check the source code from [Github](https://github.com/oviebd/eWallet)
 
 
 
-# eBidyaloy - Learning Platform  (iOS, Swift, UiKit, iOS IAP)
-
-(Office Project - DreamOnline Limited)
-
-[`📲 Available on the App Store`](https://apps.apple.com/us/app/ebidyaloy-learning-platform/id1642474911?platform=iphone)
-
-This learning platform connects students, teachers, and institutes all together through its powerful features like live classes, attendance systems, assignments, etc. In addition, it has free and paid courses with both online streaming and offline download features. 
 
 
 ## Opus - Job Recruiting Application  (iOS, Swift, SwiftUI, Apple Map, Combine Framework )
